@@ -25,3 +25,5 @@ It allows anyone to submit code, files, or creative ideas and receive automated 
 
 This project is currently in **draft & planning phase**.  
 We welcome contributors, discussion, and ideas from the open-source and Web3 community.
+
+![Core Mechanism Diagram](./API.png)
