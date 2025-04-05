@@ -17,7 +17,7 @@ It allows anyone to submit code, files, or creative ideas and receive automated 
 ## 📄 Files
 
 - `CORE_MECHANISM.md`: Full mechanism draft (text version)
-- `core_diagram.png`: Visual diagram of core logic (draft)
+- `API.png`: Visual diagram of core logic (draft)
 
 ---
 
