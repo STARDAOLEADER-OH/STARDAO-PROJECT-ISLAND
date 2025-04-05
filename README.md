@@ -11,6 +11,6 @@ It allows anyone to submit code, files, or creative ideas and receive automated 
 
 ## 📄 Files
 
-📄 [View Full Mechanism (Markdown)](./CORE_MECHANISM.md)
+📄 [View Full Mechanism (Markdown)](CORE_MECHANISM.md)
 
 ![Core Mechanism Diagram](./API.png)
