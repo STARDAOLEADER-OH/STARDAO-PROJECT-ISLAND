@@ -71,3 +71,12 @@ Official Deployment:
 📄 Visual representation is provided in the diagram file: API.png
 
 Status: Currently in draft & planning phase. Contributions welcome.
+
+---
+
+📘 Learn More
+
+For technical architecture and core mechanism design, please check:  
+🔧 [System API Diagram](https://github.com/STARDAOLEADER-OH/STARDAO-PROJECT-ISLAND/blob/main/API.png)  
+📖 [STARDAO Whitepaper](https://github.com/STARDAOLEADER-OH/STARDAO/blob/main/STARDAO-Whitepaper.md)
+
