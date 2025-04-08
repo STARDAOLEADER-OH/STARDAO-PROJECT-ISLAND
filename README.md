@@ -1,3 +1,16 @@
+## 🧠 StarDAO Deployment Island – Comic Overview
+
+Want to know how StarDAO's deployment engine works? Here’s a fun 4-panel comic where our alien friends submit ideas, trigger modular deployment, and earn fair rewards through DAO governance!
+
+![Deployment Island Comic](./deployment_island_comic_intro.png)
+
+> 💬 "Deploy your genius. Share the reward. DAO takes care of the rest."
+
+This is the core of StarDAO's Deployment Island: an open, automated, fair engine for creators and developers to submit, test, deploy, and get rewarded.
+
+📌 [View full technical draft](#)
+
+
 STAR DAO PROJECT ISLAND – DEPLOYMENT ENGINE CORE MECHANISM (DRAFT)
 
 This document outlines the core system logic of the STAR DAO Deployment Island project. It is based on the founding statements and is intended to support visual presentations and future system design.
